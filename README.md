@@ -1,16 +1,7 @@
 # flutter_run_record_app
 
-A new Flutter project.
+# flutter_run_record_app
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/2b118228-d8bf-4b93-9ee4-bd37d0f611e1" width="200">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/8e4ef6bb-5d12-41a8-b61f-f3dc48387462" width="200">
